@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Penghui, you can also call me Leo.
+- 👋 Hi, I’m Leo. Thank you for spending time reading me GitHub. I hope you enjoy it!
 
 - I enjoy the process of data collection, cleaning, integration, modeling, and visualization, which helps me analyze data to uncover valuable insights. This involves tasks such as identifying trends, patterns, and correlations within datasets, contributing to informed decision-making.
 
